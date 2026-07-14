@@ -2,109 +2,129 @@
 
 ### Software Engineer | Full-Stack Development | AI-Powered Applications
 
-I'm a Software Engineer from Tunisia passionate about building scalable web applications, backend systems, and AI-powered solutions. I enjoy transforming complex problems into secure, efficient, and user-friendly software using modern technologies.
+I'm a Software Engineer from Tunisia passionate about building scalable web applications, backend systems, and AI-powered solutions. I enjoy designing secure architectures, solving complex technical problems, and developing software using modern technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Engineering Degree in Computer Science – EPI, Tunisia
-- 💼 Former Full-Stack Software Engineering Intern at **VisioAD**
+- 🎓 Engineering Degree in Computer Science from **EPI - École Polytechnique Internationale**
+- 💼 Former **Full-Stack Software Engineering Intern at VisioAD**
 - 🤖 Developed **AgriDoc AI**, an AI-powered Intelligent Document Processing platform
-- 🌱 Currently expanding my knowledge in **Cloud Computing**, **DevOps**, and **System Design**
-- 💬 Ask me about **Full-Stack Development, AI Integration, Backend Architecture, and React Ecosystem**
+- 🌱 Currently exploring **Cloud Computing, DevOps, and System Design**
+- 💬 Interested in **Full-Stack Development, AI Integration, Backend Architecture, and Scalable Systems**
 
 ---
 
 ## ⭐ Featured Project
 
-### AgriDoc AI – Secure Document Intelligence System
+## AgriDoc AI - Secure Document Intelligence System
 
-AI-powered Intelligent Document Processing platform that automates the extraction of structured ERP-ready data from business documents using OCR and AI technologies.
+An AI-powered Intelligent Document Processing platform that automates the extraction of structured ERP-ready data from business documents.
 
-**Tech Stack**
+### Technologies
 
-- Next.js
-- NestJS
-- Python FastAPI
-- PostgreSQL
-- Prisma ORM
-- Redis
-- BullMQ
-- Docker
-- AWS S3 / MinIO
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** NestJS, Python FastAPI
+- **Database:** PostgreSQL, Prisma ORM
+- **Processing:** OCR, LLM Integration, AI Pipelines
+- **Infrastructure:** Docker, Redis, BullMQ, AWS S3 / MinIO
+
+### Main Features
+
+- 📄 Automated document processing and data extraction
+- 🤖 OCR and AI-powered information extraction
+- 🔐 JWT authentication with refresh tokens
+- 👥 Role-Based Access Control (RBAC)
+- ⚙️ Asynchronous processing pipeline using Redis and BullMQ
+- 📦 ERP-ready structured output generation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,swift" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,swift,sql"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,redis" />
+<img src="https://skillicons.dev/icons?i=docker,aws,redis,git,github"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Other Projects
+
+### Gym Management Application
+
+Backend system for managing gym members, services, workout tracking, and trainer management.
+
+**Stack:**
+Node.js • Express.js • PostgreSQL • REST APIs
+
+---
+
+### Supplier & Product Management Application
+
+Full-stack application for managing suppliers, products, deliveries, and stock operations.
+
+**Stack:**
+React.js • Node.js • Express.js • Prisma • MongoDB • Tailwind CSS
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=azizkcm09&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=azizkcm09&theme=github-dark&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=azizkcm09&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkcm09&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizkcm09&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** <azizkacem.mk@gmail.com>
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aziz-kacem-a46255334/
+- 📧 Email: [azizkacem.mk@gmail.com](mailto:azizkacem.mk@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aziz-kacem-a46255334](https://www.linkedin.com/in/aziz-kacem-a46255334/)
+- 🌐 GitHub: [github.com/azizkcm09](https://github.com/azizkcm09)
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=azizkcm09&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=azizkcm09&style=flat-square"/>
 </p>
